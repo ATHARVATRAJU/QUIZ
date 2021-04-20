@@ -11,9 +11,7 @@
     <input type ="text" name="fname"
 	id="name" placeholder ="ENTER YOUR NAME">
     <button>start</button>
-  </body>
-  </center>
-</html>
+
 package quiz;
 class scanner
 {
@@ -38,5 +36,9 @@ system.out.println("charales babage is the correct answer");
 computer++;
 correctanswer++;
 }
+ </body>
 
+</center>
+
+</html>
 
